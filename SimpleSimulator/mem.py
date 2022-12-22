@@ -1,5 +1,5 @@
 import sys
-from motherConvertor import binaryToInteger, integerToBinary
+from convertor import binaryToInteger, integerToBinary
 
 
 class memHandler:
